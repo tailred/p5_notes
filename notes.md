@@ -32,16 +32,13 @@ Go to Teikyu, go up stairs, go through on left
 Look around, try to escape  
   
 #### Tutorial Fight: *Pyro Jack x2*
-| EXP | Money |
-| :-: | :-: |
-| 22 | 298 |
-
 | Turn | Joker |
 | :-: | :-- |
 | 1 | Eiha, Rush |
 | 2 | Eiha, Rush |
 
-**LEVEL UP**: Joker Lv.2
+**LEVEL UP**:  
+Joker Lv.2  
 
 Examine bridge  
 Crawl through space  
@@ -52,6 +49,9 @@ Go upstairs, free Morgana
 | :-: | :-- | :-- |
 | 1 | Eiha Incubus | Garu Pyro Jack x2 |
 | 2 | Rush | Rush |
+  
+**LEVEL UP**:
+Joker Lv.3, Arsene Lv.2
 
 #### Tutorial Fight: *Pixie x2*
 | Turn | Joker | Morgana |
@@ -59,6 +59,9 @@ Go upstairs, free Morgana
 | 1 | Rush | Rush |
 | 2 | Eiha Pixie x2 |
 | 3 | Rush |
+
+**LEVEL UP**:  
+Morgana Lv.3  
   
 Go to roof  
 Go to sleep  
@@ -85,7 +88,7 @@ Die to fake fight
 #### Boss Fight: *Eligor*
 | Turn | Ryuji | Joker | Morgana |
 | :-:| :-- | :-- | :-- |
-| 1 | Zio Eligor | Slash Eligor | Garu Eligor |
+| 1 | Zio Eligor | Cleave Eligor | Garu Eligor |
 | 2 | Repeat | Repeat | Repeat (if needed) |
 
 Go to sleep  
@@ -107,7 +110,7 @@ Left, left
   
 #### Tutorial Fight: *Pixie*
 | Turn | Joker  |
-| :-- | :-- |
+| :-: | :-- |
 | 1 | Shoot x1 Pixie |  
 
 Pixie joins party
@@ -115,14 +118,14 @@ Pixie joins party
 #### Tutorial Fight: *Bicorn x2*
 
 | Turn | Joker |
-| :-- | :--  |
+| :-: | :--  |
 | 1 | Switch to Pixie, Zio each Bicorn, negotiate for money |
 
 **GET**: Chest in corner (Run on right to alert, run on left to get chest)  
 
 #### BOSS FIGHT: Belphegor
 | Turn | Ann | Joker | Ryuji | Morgana |
-| :-- | :-- | :-- | :-- | :-- |
+| :-: | :-- | :-- | :-- | :-- |
 | 1 | Agi Boss x2 | Switch to Arsene, Defend | Defend | Defend |
 | 2 | Agi Boss x2 | Eiha Boss | Rush | Dia: Ann |
 | 3 | Agi Boss x2 | Eiha Boss | Rush | Garu if not dead? |
