@@ -30,7 +30,7 @@ Go through, 2 rights, go up, go up right stairs
 Go to Teikyu, go up stairs, go through on left  
 Look around, try to escape  
   
-#### Tutorial Fight
+#### Tutorial Fight: *Pyro Jack x2*
 | Character | Action | Target    |
 | :--       | :--    | :--       |
 | Joker     | Eiha   | Pyro Jack |
