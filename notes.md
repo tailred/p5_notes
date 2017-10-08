@@ -37,9 +37,6 @@ Look around, try to escape
 | 1 | Eiha, Rush |
 | 2 | Eiha, Rush |
 
-**LEVEL UP**:  
-Joker Lv.2  
-
 Examine bridge  
 Crawl through space  
 Go upstairs, free Morgana  
@@ -49,9 +46,6 @@ Go upstairs, free Morgana
 | :-: | :-- | :-- |
 | 1 | Eiha Incubus | Garu Pyro Jack x2 |
 | 2 | Rush | Rush |
-  
-**LEVEL UP**:
-Joker Lv.3, Arsene Lv.2
 
 #### Tutorial Fight: *Pixie x2*
 | Turn | Joker | Morgana |
@@ -60,9 +54,7 @@ Joker Lv.3, Arsene Lv.2
 | 2 | Eiha Pixie x2 |
 | 3 | Rush |
 
-**LEVEL UP**:  
-Morgana Lv.3  
-  
+Faculty OFfice on 2nd Floor  
 Go to roof  
 Go to sleep  
   
