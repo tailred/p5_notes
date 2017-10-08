@@ -114,3 +114,13 @@ Left, left
 | Joker     | Shoot x1 | Pixie  |  
 
 Pixie joins party
+
+#### Tutorial Fight: *Bicorn x2*
+
+| Character | Action  | Target  |
+| :--       | :--      | :--    |
+| Joker     | Switch Persona: Pixie | |
+| Joker     | Zio | Bicorn 1 |
+| Joker     | Zio | Bicorn 2 |
+| Joker     | Negotiate for Money | |
+  
