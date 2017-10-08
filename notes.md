@@ -142,8 +142,8 @@ Pixie joins party
 | Joker | Eiha | Belphegor |
 | Skull | Rush | Belphegor |
   
-  | Ann | Joker | Ryuji | Morgana |
-  | :-- | :-- | :-- | :-- |
-  | Agi Boss x2 | Switch to Arsene, Defend | Defend | Defend |
-  | Agi Boss x2 | Eiha Boss | Rush | Dia: Ann |
-  | Agi Boss x2 | Eiha Boss | Rush | Garu if not dead? |
+| Turn | | Ann | Joker | Ryuji | Morgana |
+| :--| :-- | :-- | :-- | :-- | :-- |
+| 1 |  | Agi Boss x2 | Switch to Arsene, Defend | Defend | Defend |
+| 2 |  | Agi Boss x2 | Eiha Boss | Rush | Dia: Ann |
+| 3 |  | Agi Boss x2 | Eiha Boss | Rush | Garu if not dead? |
