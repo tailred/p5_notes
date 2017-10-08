@@ -86,9 +86,9 @@ Die to fake fight
 Go to sleep  
   
 ### 4/13
-Quick Travel: 4th Option  
-Quick Travel: 1st Option  
-Quick Travel: 3rd Option  
+Quick Travel: 4th Option (Classroom)  
+Quick Travel: 1st Option (1st Floor)  
+Quick Travel: 3rd Option (3rd Floor)  
 Go to sleep  
 
 ### 4/14
