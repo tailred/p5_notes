@@ -15,3 +15,6 @@ Don't save
 
 ## Kaneshiro's Castle
 
+### 4/9
+Clean your room  
+Sleep  
