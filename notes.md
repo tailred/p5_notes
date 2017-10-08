@@ -127,21 +127,6 @@ Pixie joins party
 **GET**: Chest in corner (Run on right to alert, run on left to get chest)  
 
 #### BOSS FIGHT: Belphegor
-| Character | Action  | Target  |
-| :--       | :--      | :--    |
-| Panther | Agi x2 | Belphegor |
-| Joker| Switch Persona: Arsene | |
-| Joker | Defend | |
-| Skull | Defend | |
-| Morgana | Defend | |
-| Panther | Agi x2 | Belphegor |
-| Joker | Eiha | Belphegor |
-| Skull | Rush | Belphegor |
-| Morgana | Dia | Ann |
-| Ann | Agi x2 | Belphegor |
-| Joker | Eiha | Belphegor |
-| Skull | Rush | Belphegor |
-  
 | Turn | Ann | Joker | Ryuji | Morgana |
 | :-- | :-- | :-- | :-- | :-- |
 | 1 | Agi Boss x2 | Switch to Arsene, Defend | Defend | Defend |
