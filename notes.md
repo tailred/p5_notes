@@ -6,10 +6,10 @@ Rush during enemy turns
 Avoid enemies by alerting them on one side and running around them on the other  
 
 #### Battle
-
-| Character | Action | Target |
-| :--       | :--    | :--    |
-| Joker     | Brave Blade | ?? |
+| Turn | Joker |
+| :-: | :-- |
+| 1 | Brave Blade |
+| 2 | Brave Blade |
 
 Dodge enemies  
 Name yourself whatever you want  
