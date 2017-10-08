@@ -127,6 +127,7 @@ Pixie joins party
 **GET**: Chest in corner (Run on right to alert, run on left to get chest)  
 
 #### BOSS FIGHT: Belphegor
+**TURN 1**
 | Character | Action  | Target  |
 | :--       | :--      | :--    |
 | Panther | Agi | Belphegor |
@@ -135,11 +136,15 @@ Pixie joins party
 | Joker | Defend | |
 | Skull | Defend | |
 | Morgana | Defend | |
+
+**TURN 2**
 | Panther | Agi | Belphegor |
 | Panther | Agi | Belphegor |
 | Joker | Eiha | Belphegor |
 | Skull | Rush | Belphegor |
 | Morgana | Dia | Ann |
+
+**TURN 3**
 | Ann | Agi x2 | Belphegor |
 | Joker | Eiha | Belphegor |
 | Skull | Rush | Belphegor |
