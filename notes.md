@@ -37,6 +37,10 @@ Look around, try to escape
 | 1 | Eiha, Rush |
 | 2 | Eiha, Rush |
 
+| EXP | Money |
+| :-: | :-: |
+| 22 | 298 |
+
 Examine bridge  
 Crawl through space  
 Go upstairs, free Morgana  
