@@ -3,6 +3,7 @@
 Timed from selecting New Game to saving for the New Game+ file  
 Fast Forward and hold Triangle to skip text  
 Rush during enemy turns  
+Avoid enemies by alerting them on one side and running around them on the other  
 
 #### Battle
 
@@ -14,7 +15,7 @@ Dodge enemies
 Name yourself whatever you want  
 Don't save  
 
-## Kaneshiro's Castle
+## Kamoshida's Castle
 
 ### 4/9
 Clean your room  
@@ -41,6 +42,7 @@ Look around, try to escape
 Examine bridge  
 Crawl through space  
 Go upstairs, free Morgana  
+
 #### Tutorial Fight: *Incubus, Pyro Jack*
 | Character      | Action | Target    |
 | :--            | :--    | :--       |
@@ -48,3 +50,43 @@ Go upstairs, free Morgana
 | Morgana        | Garu   | Pyro Jack |
 | Morgana        | Garu   | Pyro Jack |
 | Joker, Morgana | Rush   | Incubus   |
+  
+#### Tutorial Fight: *Pixie x2*
+| Character      | Action | Target |
+| :--            | :--    | :--    |
+| Joker, Morgana | Rush   | Pixie  |
+| Joker          | Eiha   | Pixie  |
+| Joker          | Eiha   | Pixie  |
+| Joker          | Rush   | Pixie  |
+  
+Go to roof  
+Go to sleep  
+  
+### 4/12
+
+Teacher's Question: 1st Choice  
+Avoid enemies  
+
+#### Tutorial Fight: *Pixie, Gallows-Flower*
+| Character | Action | Target                  |
+| :--       | :--      | :--                   |
+| Joker     | Shoot x8 | Pixie                 |
+| Joker     | Shoot x8 | Pixie, Gallows-Flower |
+| All       | Rush     | Gallows-Flower        |
+
+#### Tutorial Fight: *Pixie*
+| Character | Action | Target                  |
+| :--       | :--      | :--                   |
+| Joker     | Eiha     | Pixie                 |
+| All       | AoA      | All                   |
+  
+Die to fake fight  
+  
+#### Boss Fight: *Eligor*
+| Character | Action | Target   |
+| :--       | :--      | :--    |
+| Skull     | Zio      | Eligor |
+| Joker     | Slash    | Eligor |
+| Morgana   | Garu     | Eligor |
+| Skull     | Zio      | Eligor |
+| Joker     | Slash    | Eligor |
