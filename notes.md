@@ -127,7 +127,6 @@ Pixie joins party
 **GET**: Chest in corner (Run on right to alert, run on left to get chest)  
 
 #### BOSS FIGHT: Belphegor
-**TURN 1**  
 | Character | Action  | Target  |
 | :--       | :--      | :--    |
 | Panther | Agi | Belphegor |
