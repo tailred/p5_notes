@@ -32,25 +32,21 @@ Go to Teikyu, go up stairs, go through on left
 Look around, try to escape  
   
 #### Tutorial Fight: *Pyro Jack x2*
-| Character | Action | Target    |
-| :--       | :--    | :--       |
-| Joker     | Eiha   | Pyro Jack |
-| Joker     | Rush   | Pyro Jack |
-| Joker     | Eiha   | Pyro Jack |
-| Joker     | Rush   | Pyro Jack |  
-  
+| Turn | Joker |
+| :-: | :-- |
+| 1 | Eiha, Rush |
+| 2 | Eiha, Rush |
+
 Examine bridge  
 Crawl through space  
 Go upstairs, free Morgana  
 
 #### Tutorial Fight: *Incubus, Pyro Jack*
-| Character      | Action | Target    |
-| :--            | :--    | :--       |
-| Joker          | Eiha   | Incubus   |
-| Morgana        | Garu   | Pyro Jack |
-| Morgana        | Garu   | Pyro Jack |
-| Joker, Morgana | Rush   | Incubus   |
-  
+| Turn | Joker | Morgana |
+| :-: | :-- | :-- |
+| 1 | Eiha Incubus | Garu Pyro Jack x2 |
+| 2 | Rush | Rush |
+
 #### Tutorial Fight: *Pixie x2*
 | Turn | Joker | Morgana |
 | :-: | :-- | :-- |
