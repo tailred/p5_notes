@@ -75,10 +75,9 @@ Avoid enemies
 | All       | Rush     | Gallows-Flower        |
 
 #### Tutorial Fight: *Pixie*
-| Character | Action | Target                  |
-| :--       | :--      | :--                   |
-| Joker     | Eiha     | Pixie                 |
-| All       | AoA      | All                   |
+| Turn | Joker |
+| :-: | :-- |
+| 1 | | Eiha, AoA |
   
 Die to fake fight  
   
