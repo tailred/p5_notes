@@ -90,3 +90,26 @@ Die to fake fight
 | Morgana   | Garu     | Eligor |
 | Skull     | Zio      | Eligor |
 | Joker     | Slash    | Eligor |
+  
+Go to sleep  
+  
+### 4/13
+Quick Travel: 4th Option  
+Quick Travel: 1st Option  
+Quick Travel: 3rd Option  
+Go to sleep  
+
+### 4/14
+Ryuji Options: 1, 1, 1, 2, 3  
+Quick Travel: Yongen  
+Go to sleep  
+
+### 4/15
+Go down stairs, right then left, straight  
+Left, left  
+  
+#### Tutorial Fight: *Pixie*
+| Character | Action  | Target  |
+| :--       | :--      | :--    |
+| Joker     | Shoot x1 | Pixie  |
+Pixie joins party
