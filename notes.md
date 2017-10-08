@@ -77,7 +77,7 @@ Avoid enemies
 #### Tutorial Fight: *Pixie*
 | Turn | Joker |
 | :-: | :-- |
-| 1 | | Eiha, AoA |
+| 1 | Eiha, AoA |
   
 Die to fake fight  
   
