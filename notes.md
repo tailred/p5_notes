@@ -109,9 +109,9 @@ Go down stairs, right then left, straight
 Left, left  
   
 #### Tutorial Fight: *Pixie*
-| Character | Action  | Target  |
-| :--       | :--      | :--    |
-| Joker     | Shoot x1 | Pixie  |  
+| Turn | Joker  |
+| :-- | :-- |
+| 1 | Shoot x1 Pixie |  
 
 Pixie joins party
 
