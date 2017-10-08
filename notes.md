@@ -129,21 +129,15 @@ Pixie joins party
 #### BOSS FIGHT: Belphegor
 | Character | Action  | Target  |
 | :--       | :--      | :--    |
-| Panther | Agi | Belphegor |
-| Panther | Agi | Belphegor |
+| Panther | Agi x2 | Belphegor |
 | Joker| Switch Persona: Arsene | |
 | Joker | Defend | |
 | Skull | Defend | |
 | Morgana | Defend | |
-
-**TURN 2**
-| Panther | Agi | Belphegor |
-| Panther | Agi | Belphegor |
+| Panther | Agi x2 | Belphegor |
 | Joker | Eiha | Belphegor |
 | Skull | Rush | Belphegor |
 | Morgana | Dia | Ann |
-
-**TURN 3**
 | Ann | Agi x2 | Belphegor |
 | Joker | Eiha | Belphegor |
 | Skull | Rush | Belphegor |
