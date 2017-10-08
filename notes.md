@@ -9,9 +9,9 @@ Fast Forward and hold Triangle to skip text
 | :--       | :--    | :--    |
 | Joker     | Brave Blade | ?? |
 
-Dodge enemies
-Name yourself whatever you want
-Don't save
+Dodge enemies  
+Name yourself whatever you want  
+Don't save  
 
 ## Kaneshiro's Castle
 
