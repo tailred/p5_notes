@@ -38,3 +38,13 @@ Look around, try to escape
 | Joker     | Eiha   | Pyro Jack |
 | Joker     | Rush   | Pyro Jack |  
   
+Examine bridge  
+Crawl through space  
+Go upstairs, free Morgana  
+#### Tutorial Fight: *Incubus, Pyro Jack*
+| Character      | Action | Target    |
+| :--            | :--    | :--       |
+| Joker          | Eiha   | Incubus   |
+| Morgana        | Garu   | Pyro Jack |
+| Morgana        | Garu   | Pyro Jack |
+| Joker, Morgana | Rush   | Incubus   |
