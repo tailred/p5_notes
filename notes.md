@@ -111,5 +111,6 @@ Left, left
 #### Tutorial Fight: *Pixie*
 | Character | Action  | Target  |
 | :--       | :--      | :--    |
-| Joker     | Shoot x1 | Pixie  |
+| Joker     | Shoot x1 | Pixie  |  
+
 Pixie joins party
