@@ -32,14 +32,16 @@ Go to Teikyu, go up stairs, go through on left
 Look around, try to escape  
   
 #### Tutorial Fight: *Pyro Jack x2*
+| EXP | Money |
+| :-: | :-: |
+| 22 | 298 |
+
 | Turn | Joker |
 | :-: | :-- |
 | 1 | Eiha, Rush |
 | 2 | Eiha, Rush |
 
-| EXP | Money |
-| :-: | :-: |
-| 22 | 298 |
+**LEVEL UP**: Joker Lv.2
 
 Examine bridge  
 Crawl through space  
