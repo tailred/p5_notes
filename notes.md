@@ -117,13 +117,10 @@ Pixie joins party
 
 #### Tutorial Fight: *Bicorn x2*
 
-| Character | Action  | Target  |
-| :--       | :--      | :--    |
-| Joker     | Switch Persona: Pixie | |
-| Joker     | Zio | Bicorn 1 |
-| Joker     | Zio | Bicorn 2 |
-| Joker     | Negotiate for Money | |
-  
+| Turn | Joker |
+| :-- | :--  |
+| 1 | Switch to Pixie, Zio each Bicorn, negotiate for money |
+
 **GET**: Chest in corner (Run on right to alert, run on left to get chest)  
 
 #### BOSS FIGHT: Belphegor
