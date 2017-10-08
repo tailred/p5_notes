@@ -52,12 +52,11 @@ Go upstairs, free Morgana
 | Joker, Morgana | Rush   | Incubus   |
   
 #### Tutorial Fight: *Pixie x2*
-| Character      | Action | Target |
-| :--            | :--    | :--    |
-| Joker, Morgana | Rush   | Pixie  |
-| Joker          | Eiha   | Pixie  |
-| Joker          | Eiha   | Pixie  |
-| Joker          | Rush   | Pixie  |
+| Turn | Joker | Morgana |
+| :-: | :-- | :-- |
+| 1 | Rush | Rush |
+| 2 | Eiha Pixie x2 |
+| 3 | Rush |
   
 Go to roof  
 Go to sleep  
@@ -68,11 +67,11 @@ Teacher's Question: 1st Choice
 Avoid enemies  
 
 #### Tutorial Fight: *Pixie, Gallows-Flower*
-| Character | Action | Target                  |
-| :--       | :--      | :--                   |
-| Joker     | Shoot x8 | Pixie                 |
-| Joker     | Shoot x8 | Pixie, Gallows-Flower |
-| All       | Rush     | Gallows-Flower        |
+| Turn | Joker |
+| :-: | :-- |
+| 1 | Shoot x8 Pixie |
+| 2 | Shoot x8 |
+| 3 | Rush until dead |
 
 #### Tutorial Fight: *Pixie*
 | Turn | Joker |
