@@ -54,7 +54,7 @@ Go upstairs, free Morgana
 | 2 | Eiha Pixie x2 |
 | 3 | Rush |
 
-Faculty OFfice on 2nd Floor  
+Faculty Office on 2nd Floor  
 Go to roof  
 Go to sleep  
   
