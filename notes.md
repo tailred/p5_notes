@@ -83,14 +83,11 @@ Avoid enemies
 Die to fake fight  
   
 #### Boss Fight: *Eligor*
-| Character | Action | Target   |
-| :--       | :--      | :--    |
-| Skull     | Zio      | Eligor |
-| Joker     | Slash    | Eligor |
-| Morgana   | Garu     | Eligor |
-| Skull     | Zio      | Eligor |
-| Joker     | Slash    | Eligor |
-  
+| Turn | Ryuji | Joker | Morgana |
+| :-:| :-- | :-- | :-- |
+| 1 | Zio Eligor | Slash Eligor | Garu Eligor |
+| 2 | Repeat | Repeat | Repeat (if needed) |
+
 Go to sleep  
   
 ### 4/13
