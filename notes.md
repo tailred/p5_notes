@@ -124,3 +124,24 @@ Pixie joins party
 | Joker     | Zio | Bicorn 2 |
 | Joker     | Negotiate for Money | |
   
+**GET**: Chest in corner (Run on right to alert, run on left to get chest)  
+
+#### BOSS FIGHT: Belphegor
+| Character | Action  | Target  |
+| :--       | :--      | :--    |
+| Panther | Agi | Belphegor |
+| Panther | Agi | Belphegor |
+| Joker| Switch Persona: Arsene | |
+| Joker | Defend | |
+| Skull | Defend | |
+| Morgana | Defend | |
+| Panther | Agi | Belphegor |
+| Panther | Agi | Belphegor |
+| Joker | Eiha | Belphegor |
+| Skull | Rush | Belphegor |
+| Morgana | Dia | Ann |
+| Ann | Agi x2 | Belphegor |
+| Joker | Eiha | Belphegor |
+| Skull | Rush | Belphegor |
+  
+  
