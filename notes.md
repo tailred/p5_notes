@@ -121,3 +121,12 @@ Pixie joins party
 | 1 | Agi Boss x2 | Switch to Arsene, Defend | Defend | Defend |
 | 2 | Agi Boss x2 | Eiha Boss | Rush | Dia: Ann |
 | 3 | Agi Boss x2 | Eiha Boss | Rush | Garu if not dead? |
+  
+### 4/16
+Go to pharmacy, don't buy anything  
+Go to sleep  
+
+### 4/17
+**MAKE**: Picklock x1
+
+### 4/18
