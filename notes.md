@@ -138,3 +138,21 @@ Go to pharmacy
 Clean room  
 
 ### 4/19
+Spend time with Ryuji - **Chariot**: Rank 2 - 1st Option for all  
+Fast Travel to room, **Train**  
+  
+### 4/20
+Read **Pirate Legend**  
+Fast Travel: **Shibuya - Underground Walkway**  
+Take part time job at **Convenience Store**  
+Fast Travel: **Yongen-Jaya - Cafe LeBlanc**  
+Talk to **Sojiro**  
+**Hierophant**: Rank 1 - Any Option  
+  
+### 4/21
+Ann - Option 2  
+Fast Travel: **Shibuya - Central Street**  
+Part time job at **Convenience Store**  
+**Hierophant**: Rank 2 - Any Option
+
+### 4/22
