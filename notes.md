@@ -130,3 +130,11 @@ Go to sleep
 **MAKE**: Picklock x1
 
 ### 4/18
+Fast Travel: **Library**  
+Borrow Book: **Pirate Legend**  
+Fast Travel: **Yongen**  
+Go to pharmacy  
+**Death**: Rank 1 - 1st Option for all  
+Clean room  
+
+### 4/19
