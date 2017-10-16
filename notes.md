@@ -189,6 +189,7 @@ Part-time Job
 Fast Travel: **Room**, **Train**  
 
 ### 4/27
+Teacher Question: 1st Option  
 Fast Travel: **Shibuya - Convenience Store**  
 Part-time Job  
 Fast Travel: **Clinic**  
