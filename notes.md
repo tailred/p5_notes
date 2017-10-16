@@ -193,6 +193,7 @@ Fast Travel: **Shibuya - Convenience Store**
 Part-time Job  
 Fast Travel: **Clinic**  
 Buy:  
+  
 | Item | Quantity | Cost |
 | :-- | :-- | :-- |
 | Takemedic-all | 2 | 3,800 |
