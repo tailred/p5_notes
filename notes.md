@@ -192,7 +192,7 @@ Fast Travel: **Room**, **Train**
 Fast Travel: **Shibuya - Convenience Store**  
 Part-time Job  
 Fast Travel: **Clinic**  
-Buy:  
+**Buy**:  
   
 | Item | Quantity | Cost |
 | :-- | :-- | :-- |
@@ -203,3 +203,5 @@ Buy:
   
 Fast Travel: **Cafe LeBlanc**  
 Fast Travel: **Room**, **Train**  
+
+### 4/28
