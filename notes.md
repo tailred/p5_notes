@@ -156,3 +156,49 @@ Part time job at **Convenience Store**
 **Hierophant**: Rank 2 - Any Option
 
 ### 4/22
+Fast Travel: **Entrance**  
+Buy **Yakisoba Pan**  
+Fast Travel: **Shibuya - Central Street**  
+Buy **Playing the Game** at the **Bookstore**  
+Visit **Diner**, buy **Hot Coffee**  
+Fast Travel to **Room**, **Train**  
+
+### 4/23
+Ryuji - 2nd Option  
+Teacher - 1st Option  
+Fast Travel: **Shibuya - Central Street**  
+Visit **Diner**, buy **Hot Coffee**  
+**Brew Coffee**  
+
+### 4/24
+Fast Travel: **Convenience Store**  
+Part-time Job  
+**Brew Coffee**  
+
+### 4/25
+Read **Pirate Legend**  
+Teacher - All 2nd Options  
+Fast Travel: **Yongen-Jaya - Clinic**  
+**Death**: Rank 2 - All 1st Options  
+Fast Travel: **Room**, **Train**  
+
+### 4/26
+Ann - 2nd Option  
+Fast Travel: **Shibuya - Convenience Store**  
+Part-time Job  
+Fast Travel: **Room**, **Train**  
+
+### 4/27
+Fast Travel: **Shibuya - Convenience Store**  
+Part-time Job  
+Fast Travel: **Clinic**  
+Buy:  
+| Item | Quantity | Cost |
+| :-- | :-- | :-- |
+| Takemedic-all | 2 | 3,800 |
+| Takemedic-all V | 3 | 10,800 |
+| Revivadrin | 2 | 3,600 |
+| Relax Gel | 1 | 900 |
+  
+Fast Travel: **Cafe LeBlanc**  
+Fast Travel: **Room**, **Train**  
