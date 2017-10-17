@@ -211,3 +211,10 @@ Infiltrate Palace
 Fuse Agathion with **Zio** for the Tutorial  
 Fast Travel: **West Building 1F**  
 Ambush first enemy, Lunge / Agi / Agi and all 1st options to get **Mandrake**  
+
+| Enemy | Weakness | Resist | Block | Reflect |
+| :-- | :-: | :-: | :-: | :-: |
+| Pyro Jack | Gun, Ice, Wind | x | Fire | x |
+| Pixie | Gun, Ice, Curse | Wind, Bless | x | x |
+| Incubus | Gun, Bless | Elec | x | x |
+| Mandrake | Fire | Wind | x | x |
