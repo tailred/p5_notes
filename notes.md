@@ -224,5 +224,15 @@ Ambush first enemy, Lunge / Agi / Agi and all 1st options to get **Mandrake**
 | Kelpie | Elec | Ice | x | x |
 | Succubus | Gun, Light | Fire | Curse | x |
 | Berith | Ice | Fire | Gun | x |
-
+  
+Climb the shelf on the right, grab treasures  
+Fight shadow guarding the door (Pyro Jack), 1 shot, negotiate to get **Jack-o'-Lantern**  
+Negotiation guide:  
+  
+| Personality | Likes | Dislikes |
+| :-- | :-- | :-- |
+| Upbeat | Funny | Serious, Vague |
+| Timid | Kind | Vague, Funny |
+| Gloomy | Vague | Serious, Funny |
+| Irritable | Serious | Vague, Kind |
   
