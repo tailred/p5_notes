@@ -218,3 +218,11 @@ Ambush first enemy, Lunge / Agi / Agi and all 1st options to get **Mandrake**
 | Pixie | Gun, Ice, Curse | Wind, Bless | x | x |
 | Incubus | Gun, Bless | Elec | x | x |
 | Mandrake | Fire | Wind | x | x |
+| Agathion | Wind | Gun, Elec | x | x |
+| Bicorn | Elec | Curse | x | x |
+| Silky | Fire, Elec | Ice | x | x |
+| Kelpie | Elec | Ice | x | x |
+| Succubus | Gun, Light | Fire | Curse | x |
+| Berith | Ice | Fire | Gun | x |
+
+  
