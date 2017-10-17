@@ -206,3 +206,8 @@ Fast Travel: **Cafe LeBlanc**
 Fast Travel: **Room**, **Train**  
 
 ### 4/28
+Ryuji - 1st Option  
+Infiltrate Palace  
+Fuse Agathion with **Zio** for the Tutorial  
+Fast Travel: **West Building 1F**  
+Ambush first enemy, Lunge / Agi / Agi and all 1st options to get **Mandrake**  
