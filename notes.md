@@ -234,8 +234,8 @@ Negotiation guide:
 | :-- | :-- | :-- |
 | Upbeat | Funny | Serious, Vague |
 | Timid | Kind | Vague, Funny |
-| Gloomy | Vague | Serious, Funny |
 | Irritable | Serious | Vague, Kind |
+| Gloomy | Vague | Serious, Funny |
   
 Ambush enemy in next room, **Zio** with Ryuji, negotiate to get Bicorn to join  
 Ambush enemy after stairs, Garu / Garu and negotiate for money  
@@ -252,3 +252,4 @@ Open chest, menu:
 | Accessory | **Muscle Anklet** |
   
 Get **Slave Book**  
+Get **King Book**  
