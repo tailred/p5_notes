@@ -252,4 +252,21 @@ Open chest, menu:
 | Accessory | **Muscle Anklet** |
   
 Get **Slave Book**  
+Get **Queen Book**  
 Get **King Book**  
+Put **King Book** on back left shelf, **Queen Book** on middle shelf beside it, **Slave Book** on other side  
+Get **Map**  
+Enter **Rest Area** before Archangel fight, Auto-recover  
+
+#### Miniboss: Archangel
+| Turn | MC | Ryuji | Morgana | Ann |
+| :-: | :-- | :-- | :-- | :-- |
+| 1 | Guard | Lunge | Garu | Rush |
+| 2 | Switch to **Pyro Jack**, Rakunda | Lunge | Garu | Dia (Revive if someone died?) |
+| 3 | Switch to **Agathion**, Guard | Lunge | Garu | Dia |
+| 4 | Switch to **Bicorn**, Lunge | Lunge | Garu | Rush |
+| 5 | Lunge | Lunge | Garu | Attack if not dead? |
+  
+
+
+
