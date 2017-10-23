@@ -247,7 +247,7 @@ Make way to chest shadow, ambush - Rush, negotiate, get **Incubus**
 Open chest, menu:  
 
 | Slot | Joker | Ryuji |
-| :-- | :-: |
+| :-- | :-: | :-: |
 | Melee Weapon | **Silver Dagger** | [No Change] |
 | Accessory | [No Change] | **Muscle Anklet** |
   
