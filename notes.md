@@ -199,7 +199,7 @@ Fast Travel: **Clinic**
 | Item | Quantity | Cost |
 | :-- | :-- | :-- |
 | Takemedic-all | 2 | 3,800 |
-| Takemedic-all V | 3 | 10,800 |
+| Takemedic-all V | 3 (2 if short on cash) | 10,800 |
 | Revivadrin | 2 | 3,600 |
 | Relax Gel | 1 | 900 |
   
