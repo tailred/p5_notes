@@ -246,10 +246,10 @@ Ambush 2nd enemy after crossing chandeliers (Kelpie x2), Zio / BP Ryuji / Zio, A
 Make way to chest shadow, ambush - Rush, negotiate, get **Incubus**  
 Open chest, menu:  
 
-| Slot | Joker |
+| Slot | Joker | Ryuji |
 | :-- | :-: |
-| Melee Weapon | **Silver Dagger** |
-| Accessory | **Muscle Anklet** |
+| Melee Weapon | **Silver Dagger** | [No Change] |
+| Accessory | [No Change] | **Muscle Anklet** |
   
 Get **Slave Book**  
 Get **Queen Book**  
@@ -297,4 +297,34 @@ Menu:
 | Slot | Joker | Ryuji |
 | :-: | :-: | :-: |
 | Accessory | **Muscle Anklet** | **Suspenders** |
+
+Enter safe room before fighting 2nd Eye fight  
+
+#### Eye Fight 2:
+| Turn | Joker | Morgana | Ryuji | Ann |
+| :-: | :-- | :-- | :-- | :-- |
+| 1 | Pulinpa | Garu | Zio, **BP** to Joker, Lunge | Rush |
+| 2 | Lunge | Garu | Zio | Rush |
+  
+Head to safe room again, go back to statue  
+Ambush enemy on the right side, near the chest  
+
+#### Chest Guard
+Shoot w/ Joker, BP to Ryuji, shoot, AoA, rush  
+
+GET: **Revival Bead**  
+
+#### Miniboss: Chopped Penis
+| Turn | Joker | Morgana | Ryuji | Ann |
+| :-: | :-- | :-- | :-- | :-- |
+| 1 | Rakunda | Rush | Lunge | Guard |
+| 2 | Pulinpa | Rush | Lunge | Rush |
+| 3 | Lunge | Rush | Lunge | Rush |
+
+Rush the rest  
+  
+The whole party should be Lv9 here  
+Make way to last safe room, go back out and take **Relax Gel** from chest  
+Make way to **Treasure Room** and exit castle  
+Sleep  
 
