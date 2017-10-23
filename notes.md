@@ -246,7 +246,7 @@ Ambush 2nd enemy after crossing chandeliers (Kelpie x2), Zio / BP Ryuji / Zio, A
 Make way to chest shadow, ambush - Rush, negotiate, get **Incubus**  
 Open chest, menu:  
 
-| Slot | MC |
+| Slot | Joker |
 | :-- | :-: |
 | Melee Weapon | **Silver Dagger** |
 | Accessory | **Muscle Anklet** |
@@ -273,7 +273,7 @@ Ambush first enemy (Succubus x2), shoot x2, BP to Ryuji, shoot (x2?), AoA
 Get into safe room  
 Ambush 1st enemy after going up stairs: 
 
-#### Money Farm: Archangel  
+#### EXP Fight: Archangel  
 | Turn | Joker | Morgana | Ann | Ryuji |
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | Rakunda | Garu | Rush | Zio, BP to Joker and Pulinpa |
@@ -282,3 +282,18 @@ Ambush 1st enemy after going up stairs:
 Ambush big red dude, kill Archangel then run away:
 #### Key Fight  
 Zio, BP to Ryuji, Lunge, Garu, Lunge, Shoot, BP to Ryuji, Lunge, run away
+  
+Agathion Level 6: Rakukaja needed?  
+USE: **Leblanc Coffee** on **Joker** on the way back to get the eyes  
+
+#### Eye Fight 1: Eligor
+| Turn | Joker | Ann | Morgana | Ryuji |
+| :-: | :-- | :-- | :-- | :-- |
+| 1 | Pulinpa | Revive if someone died / Rush? | Rush | Zio, **BP** to Joker, Lunge with Bicorn |
+| 2 | Zio, **BP** to Ryuji, Lunge | Rush | Garu | Lunge |
+
+Menu:
+| Slot | Joker | Ryuji |
+| :-: | :-: | :-: |
+| Accessory | **Muscle Anklet** | **Suspenders** |
+
