@@ -227,7 +227,7 @@ Ambush first enemy, Lunge / Agi / Agi and all 1st options to get **Mandrake**
 | Berith | Ice | Fire | Gun | x |
   
 Climb the shelf on the right for treasure  
-Fight shadow guarding the door (Pyro Jack), 1 shot, negotiate to get **Jack-o'-Lantern**  
+Fight shadow guarding the door (Pyro Jack), **Shoot Once**, negotiate to get **Jack-o'-Lantern**  
 Negotiation guide:  
   
 | Personality | Likes | Dislikes |
