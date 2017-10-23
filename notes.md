@@ -167,7 +167,7 @@ Fast Travel to **Room**, **Train**
 ### 4/23
 Ryuji - 2nd Option  
 Teacher - 1st Option  
-Fast Travel: **Shibuya - Central Street**  
+Fast Travel: **Shibuya - Diner**  
 Visit **Diner**, buy **Hot Coffee**  
 **Brew Coffee**  
 
