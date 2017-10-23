@@ -293,6 +293,7 @@ USE: **Leblanc Coffee** on **Joker** on the way back to get the eyes
 | 2 | Zio, **BP** to Ryuji, Lunge | Rush | Garu | Lunge |
 
 Menu:
+
 | Slot | Joker | Ryuji |
 | :-: | :-: | :-: |
 | Accessory | **Muscle Anklet** | **Suspenders** |
