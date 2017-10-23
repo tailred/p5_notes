@@ -328,3 +328,49 @@ Make way to last safe room, go back out and take **Relax Gel** from chest
 Make way to **Treasure Room** and exit castle  
 Sleep  
 
+### 4/29
+Sleep  
+Train  
+
+### 4/30
+Read **Playing the Game**  
+Pick 1st Option for all Teacher Questions  
+Quick Travel: Roof  
+Send **Calling Card**  
+Make **Leblanc Coffee**  
+
+### 5/1
+Save, enter Velvet Room  
+**Fusion**:  
+**Jack-o'-Lantern** + **Incubus** = **Berith** with **Rakunda**  
+Buy: **Arsene** (2121 yen), **Incubus** (2576 yen)  
+**Incubus** + **Arsene** = **Genbu** with **Eiha**  
+**Genbu** + **Mandrage** = **Hua Po** with **Pulinpa**  
+Buy: **Jack-o'-Lantern** (2196 yen)  
+**Berith** + **Jack-o'-Lantern** = **Mokoi** with **Double Fangs** and **Rakunda**  
+  
+Quick Travel: **Throne Room**  
+
+#### **BOSS FIGHT** : **KAMOSHIDA**  
+
+| Turn | Joker | Ryuji | Morgana | Ann |
+| :-: | :-- | :-- | :-- | :-- |
+| 1 | Tarunda | Tarukaja on **Joker** | Garu | Agi |
+| 2 | Tarunda | Tarukaja on **Joker** | Garu | Dia | 
+| 3 | Switch to **Mokoi**, Rakunda | Lunge | Garu | Agi |
+| 4 | Double Fangs | Lunge | Garu | Takemedic-All |
+| * | From here on, target **Trophy** until it dies unless noted otherwise | x | x | x |
+| 5 | Rakunda | Lunge | Garu | Guard |
+| 6 | Double Fangs | Lunge | Garu | Takemedic-All |
+| 7 | Tarunda **Kamoshida** | Lunge | Dia | Guard |
+| 8 | Double Fangs | Tarukaja **Joker** | Garu | Agi (Trophy should die), **AoA** |
+| * | Send **Ryuji** for **Special Orders** | x | x | x |
+| 9 | Tarunda | x | Garu | Takemedic-All V |
+| 10 | Guard | x | Guard | Guard |
+| 11 | Double Fangs | x | Takemedic-All V | Agi |
+| 12 | Double Fangs | x | Garu | Dia |
+| 13 | Double Fangs | x | Dia | Guard |
+| 14 | Double Fangs | He does the thing, Lunge | Garu | Takemedic-All V |
+| 15 | Double Fangs | Lunge | Garu | Agi, should be dead gg son |
+  
+[[[2:24:24]]] Test notes now
