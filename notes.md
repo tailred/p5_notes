@@ -238,7 +238,7 @@ Negotiation guide:
 | Gloomy | Vague | Serious, Funny |
   
 Ambush enemy in next room, **Zio** with Ryuji, negotiate to get Bicorn to join  
-Ambush enemy after stairs, Garu / Garu and negotiate for money  
+Ambush enemy after stairs, Garu / Garu and **negotiate for money**  
 Ambush next enemy, Zio / Baton Pass to Ann / Agi / AoA  
 Ambush enemy after Map room (Bicorn), Zio / money  
 Ambush next enemy (Incubus x2), shoot x1 each, negotiate for money  
@@ -259,7 +259,7 @@ Get **Map**
 Enter **Rest Area** before Archangel fight, Auto-recover  
 
 #### Miniboss: Archangel
-| Turn | MC | Ryuji | Morgana | Ann |
+| Turn | Joker | Ryuji | Morgana | Ann |
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | Guard | Lunge | Garu | Rush |
 | 2 | Switch to **Pyro Jack**, Rakunda | Lunge | Garu | Dia (Revive if someone died?) |
@@ -267,6 +267,18 @@ Enter **Rest Area** before Archangel fight, Auto-recover
 | 4 | Switch to **Bicorn**, Lunge | Lunge | Garu | Rush |
 | 5 | Lunge | Lunge | Garu | Attack if not dead? |
   
+**Auto-Recover** after the fight
+Go counter-clockwise after entering the weird purple area, get 1st treasure  
+Ambush first enemy (Succubus x2), shoot x2, BP to Ryuji, shoot (x2?), AoA  
+Get into safe room  
+Ambush 1st enemy after going up stairs: 
 
-
-
+#### Money Farm: Archangel  
+| Turn | Joker | Morgana | Ann | Ryuji |
+| :-: | :-- | :-- | :-- | :-- |
+| 1 | Rakunda | Garu | Rush | Zio, BP to Joker and Pulinpa |
+| x | Zio, BP to Ryuji | Garu | Rush | Lunge x2 | 
+  
+Ambush big red dude, kill Archangel then run away:
+#### Key Fight  
+Zio, BP to Ryuji, Lunge, Garu, Lunge, Shoot, BP to Ryuji, Lunge, run away
