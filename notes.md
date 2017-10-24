@@ -80,6 +80,12 @@ Avoid enemies
 Die to fake fight  
   
 #### Boss Fight: *Eligor*
+| HP | Weak | Resist | Null | Reflect |
+| :-: | :-: | :-: | :-: | :-: |
+| 180 | x | Gun, Fire | x | x |
+
+*Strategy*:  
+
 | Turn | Ryuji | Joker | Morgana |
 | :-:| :-- | :-- | :-- |
 | 1 | Zio Eligor | Cleave Eligor | Garu Eligor |
