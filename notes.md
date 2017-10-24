@@ -124,6 +124,12 @@ Pixie joins party
 **GET**: Chest in corner (Run on right to alert, run on left to get chest)  
 
 #### BOSS FIGHT: Belphegor
+| HP | Weak | Resist | Null | Reflect |
+| :-: | :-: | :-: | :-: | :-: |
+| 420 | Fire | Phys, Elec, Wind | x | x |
+
+*Strategy*:  
+
 | Turn | Ann | Joker | Ryuji | Morgana |
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | Agi Boss x2 | Shoot x8 | Defend | Shoot x5 |
@@ -264,7 +270,13 @@ Put **King Book** on back left shelf, **Queen Book** on middle shelf beside it, 
 Get **Map**  
 Enter **Rest Area** before Archangel fight, Auto-recover  
 
-#### Miniboss: Archangel
+#### Miniboss: *Archangel*
+| HP | Weak | Resist | Null | Reflect |
+| :-: | :-: | :-: | :-: | :-: |
+| 645 | x | Fire, Ice, Elec, Light | x | x |
+
+*Strategy*:
+
 | Turn | Joker | Ryuji | Morgana | Ann |
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | Guard | Lunge | Garu | Rush |
@@ -320,7 +332,13 @@ Shoot w/ Joker, BP to Ryuji, shoot, AoA, rush
 
 GET: **Revival Bead**  
 
-#### Miniboss: Chopped Penis
+#### Miniboss: *Torn King of Desire*
+| HP | Weak | Resist | Null | Reflect |
+| :-: | :-: | :-: | :-: | :-: |
+| 400 | x | Everything but Phys | x | x |
+
+*Strategy*:  
+
 | Turn | Joker | Morgana | Ryuji | Ann |
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | Rakunda | Rush | Lunge | Guard |
@@ -358,6 +376,10 @@ Buy: **Jack-o'-Lantern** (2196 yen)
 Quick Travel: **Throne Room**  
 
 #### **BOSS FIGHT** : **KAMOSHIDA**  
+| Enemy | HP | Weak | Resist | Null | Reflect |
+| :-- | :-: | :-: | :-: | :-: | :-: |
+| Kamoshida | 2500 | x | x | x | x |
+| Trophy | 900 | x | x | x | x |
 
 | Turn | Joker | Ryuji | Morgana | Ann |
 | :-: | :-- | :-- | :-- | :-- |
