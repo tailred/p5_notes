@@ -6,7 +6,7 @@ Fast Forward and hold Triangle to skip text
 Rush during enemy turns  
 Avoid enemies by alerting them on one side and running around them on the other  
 Grab treasures in palaces  
-Fight strategies are if they go "optimally," will likely have to react/adjust to things going wrong
+**Fight strategies are if they go "optimally," don't take them as gospel, you will most likely have to react/adjust to things going wrong**  
 
 #### Battle
 | Turn | Joker |
