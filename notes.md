@@ -371,12 +371,18 @@ Make **Leblanc Coffee**
 | :-: | :-: | :-: | :-: |
 | Jack-o'-Lantern | Incubus | Rakunda | Berith |
 
-**Fusion**:  
-**Jack-o'-Lantern** + **Incubus** = **Berith** with **Rakunda**  
 Buy: **Arsene** (2121 yen), **Incubus** (2576 yen)  
-**Incubus** + **Arsene** = **Genbu** with **Eiha**  
-**Genbu** + **Mandrage** = **Hua Po** with **Pulinpa**  
+
+| Persona 1 | Persona 2 | Skills | Result |
+| :-: | :-: | :-: | :-: |
+| Incubus | Arsene | Eiha | Genbu |
+| Genbu | Mandrake | Pulinpa | Hua Po |
+
 Buy: **Jack-o'-Lantern** (2196 yen)  
+
+| Persona 1 | Persona 2 | Skills | Result |
+| :-: | :-: | :-: | :-: |
+| Berith | Jack-o'-Lantern | Double Fangs, Rakunda | Mokoi |
 **Berith** + **Jack-o'-Lantern** = **Mokoi** with **Double Fangs** and **Rakunda**  
   
 Quick Travel: **Throne Room**  
