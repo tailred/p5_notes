@@ -365,7 +365,12 @@ Send **Calling Card**
 Make **Leblanc Coffee**  
 
 ### 5/1
-Save, enter Velvet Room  
+**Save**, enter Velvet Room  
+
+| Persona 1 | Persona 2 | Skills | Result |
+| :-: | :-: | :-: | :-: |
+| Jack-o'-Lantern | Incubus | Rakunda | Berith |
+
 **Fusion**:  
 **Jack-o'-Lantern** + **Incubus** = **Berith** with **Rakunda**  
 Buy: **Arsene** (2121 yen), **Incubus** (2576 yen)  
