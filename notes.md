@@ -383,7 +383,6 @@ Buy: **Jack-o'-Lantern** (2196 yen)
 | Persona 1 | Persona 2 | Skills | Result |
 | :-: | :-: | :-: | :-: |
 | Berith | Jack-o'-Lantern | Double Fangs, Rakunda | Mokoi |
-**Berith** + **Jack-o'-Lantern** = **Mokoi** with **Double Fangs** and **Rakunda**  
   
 Quick Travel: **Throne Room**  
 
