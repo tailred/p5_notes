@@ -233,12 +233,19 @@ Climb the shelf on the right for treasure
 Fight shadow guarding the door (Pyro Jack), **Shoot Once**, negotiate to get **Jack-o'-Lantern**  
   
 Ambush enemy in next room, **Zio** with Ryuji, negotiate to get Bicorn to join  
+  
 Ambush enemy after stairs, Garu / Garu and **negotiate for money**  
+  
 Ambush next enemy, Zio / Baton Pass to Ann / Agi / AoA  
+  
 Ambush enemy after Map room (Bicorn), Zio / money  
+  
 Ambush next enemy (Incubus x2), shoot x1 each, negotiate for money  
+  
 Ambush 2nd enemy after crossing chandeliers (Kelpie x2), Zio / BP Ryuji / Zio, AoA  
+  
 Make way to chest shadow, ambush - Rush, negotiate, get **Incubus**  
+  
 Open chest, menu:  
 
 | Slot | Joker | Ryuji |
