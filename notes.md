@@ -413,6 +413,7 @@ Sleep
   
 
 *Kamoshida Shadows*:  
+
 | Enemy | Weakness | Resist | Block | Reflect |
 | :-- | :-: | :-: | :-: | :-: |
 | Pyro Jack | Gun, Ice, Wind | x | Fire | x |
