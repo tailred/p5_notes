@@ -286,9 +286,9 @@ Enter **Rest Area** before Archangel fight, Auto-recover
 | 4 | Switch to **Bicorn**, Lunge | Lunge | Garu | Rush |
 | 5 | Lunge | Lunge | Garu | Attack if not dead? |
   
-**Auto-Recover** after the fight
+**Auto-Recover** after the fight  
 Go counter-clockwise after entering the weird purple area, get 1st treasure  
-Ambush first enemy (Succubus x2), shoot x2, BP to Ryuji, shoot (x2?), AoA  
+Ambush first enemy (Succubus x2), shoot first x2, BP to Ryuji, shoot 2nd x2, AoA  
 Get into safe room  
 Ambush 1st enemy after going up stairs: 
 
