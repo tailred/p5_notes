@@ -253,11 +253,6 @@ Open chest, menu:
 | Melee Weapon | **Silver Dagger** | [No Change] |
 | Accessory | [No Change] | **Muscle Anklet** |
   
-Get **Slave Book**  
-Get **Queen Book**  
-Get **King Book**  
-Put **King Book** on back left shelf, **Queen Book** on middle shelf beside it, **Slave Book** on other side  
-Get **Map**  
 Enter **Rest Area** before Archangel fight, Auto-recover  
 
 #### Miniboss: *Archangel*
