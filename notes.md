@@ -216,6 +216,8 @@ Fast Travel: **Clinic**
 | Revivadrin | 2 | 3,600 |
 | Relax Gel | 1 | 900 |
   
+Total needed: 19,100  
+
 Fast Travel: **Cafe LeBlanc**  
 Fast Travel: **Room**, **Train**  
 
