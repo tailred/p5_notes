@@ -18,7 +18,7 @@ Dodge enemies
 Name yourself whatever you want  
 Don't save  
 
-## Kamoshida's Castle
+## Kamoshida's Castle of Lust
 
 ### 4/9
 Clean your room  
@@ -412,4 +412,8 @@ Quick Travel: **Throne Room**
 | 14 | Double Fangs | He does the thing, Lunge | Garu | Takemedic-All V |
 | 15 | Double Fangs | Lunge | Garu | Agi, should be dead gg son |
   
-[[[2:24:24]]] Test notes now
+Sleep
+
+## Madarame's Museum of Vanity
+  
+
