@@ -299,7 +299,7 @@ Ambush 1st enemy after going up stairs:
 | x | Zio, BP to Ryuji | Garu | Rush | Lunge x2 | 
   
 Ambush big red dude, kill Archangel then run away:
-#### Key Fight  
+#### Archangel Fight 2  
 Zio, BP to Ryuji, Lunge, Garu, Lunge, Shoot, BP to Ryuji, Lunge, run away
   
 Agathion Level 6: Rakukaja needed?  
