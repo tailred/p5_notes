@@ -227,30 +227,10 @@ Infiltrate Palace
 Fuse Agathion with **Zio** for the Tutorial  
 Fast Travel: **West Building 1F**  
 Ambush first enemy, Lunge / Agi / Agi and all 1st options to get **Mandrake**  
-
-| Enemy | Weakness | Resist | Block | Reflect |
-| :-- | :-: | :-: | :-: | :-: |
-| Pyro Jack | Gun, Ice, Wind | x | Fire | x |
-| Pixie | Gun, Ice, Curse | Wind, Bless | x | x |
-| Incubus | Gun, Bless | Elec | x | x |
-| Mandrake | Fire | Wind | x | x |
-| Agathion | Wind | Gun, Elec | x | x |
-| Bicorn | Elec | Curse | x | x |
-| Silky | Fire, Elec | Ice | x | x |
-| Kelpie | Elec | Ice | x | x |
-| Succubus | Gun, Light | Fire | Curse | x |
-| Berith | Ice | Fire | Gun | x |
   
 Climb the shelf on the right for treasure  
-Fight shadow guarding the door (Pyro Jack), **Shoot Once**, negotiate to get **Jack-o'-Lantern**  
-Negotiation guide:  
   
-| Personality | Likes | Dislikes |
-| :-- | :-- | :-- |
-| Upbeat | Funny | Serious, Vague |
-| Timid | Kind | Vague, Funny |
-| Irritable | Serious | Vague, Kind |
-| Gloomy | Vague | Serious, Funny |
+Fight shadow guarding the door (Pyro Jack), **Shoot Once**, negotiate to get **Jack-o'-Lantern**  
   
 Ambush enemy in next room, **Zio** with Ryuji, negotiate to get Bicorn to join  
 Ambush enemy after stairs, Garu / Garu and **negotiate for money**  
@@ -419,3 +399,29 @@ Sleep
 ## Madarame's Museum of Vanity
   
 
+## Appendix
+  
+*Negotiation guide*:  
+  
+| Personality | Likes | Dislikes |
+| :-- | :-- | :-- |
+| Upbeat | Funny | Serious, Vague |
+| Timid | Kind | Vague, Funny |
+| Irritable | Serious | Vague, Kind |
+| Gloomy | Vague | Serious, Funny |
+
+  
+
+*Kamoshida Shadows*:  
+| Enemy | Weakness | Resist | Block | Reflect |
+| :-- | :-: | :-: | :-: | :-: |
+| Pyro Jack | Gun, Ice, Wind | x | Fire | x |
+| Pixie | Gun, Ice, Curse | Wind, Bless | x | x |
+| Incubus | Gun, Bless | Elec | x | x |
+| Mandrake | Fire | Wind | x | x |
+| Agathion | Wind | Gun, Elec | x | x |
+| Bicorn | Elec | Curse | x | x |
+| Silky | Fire, Elec | Ice | x | x |
+| Kelpie | Elec | Ice | x | x |
+| Succubus | Gun, Light | Fire | Curse | x |
+| Berith | Ice | Fire | Gun | x |
