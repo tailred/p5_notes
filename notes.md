@@ -230,19 +230,19 @@ Ambush first enemy, Lunge / Agi / Agi and all 1st options to get **Mandrake**
   
 Climb the shelf on the right for treasure  
   
-Fight shadow guarding the door (Pyro Jack), **Shoot Once**, negotiate to get **Jack-o'-Lantern**  
+Door Guard (Pyro Jack): **Shoot Once**, negotiate to get **Jack-o'-Lantern**  
   
-Ambush enemy in next room, **Zio** with Ryuji, negotiate to get Bicorn to join  
+1st Enemy in next room (Bicorn): **Zio** with Ryuji, negotiate to get Bicorn to join  
   
-Ambush enemy after stairs, Garu / Garu and **negotiate for money**  
+1st enemy after stairs (Agathion x2): **Garu** both and **negotiate for money**  
   
-Ambush next enemy, Zio / Baton Pass to Ann / Agi / AoA  
+Next enemy (Silky x2): **Zio**, **Baton Pass** to Ann, **Agi**, AoA  
   
-Ambush enemy after Map room (Bicorn), Zio / money  
+1st enemy after Map room (Bicorn): **Zio**, take money  
   
-Ambush next enemy (Incubus x2), shoot x1 each, negotiate for money  
+Next enemy (Incubus x2): **Shoot** x1 each, **take money**  
   
-Ambush 2nd enemy after crossing chandeliers (Kelpie x2), Zio / BP Ryuji / Zio, AoA  
+2nd enemy after crossing chandeliers (Kelpie x2): **Zio**, BP to Ryuji, **Zio**, AoA  
   
 Make way to chest shadow, ambush - Rush, negotiate, get **Incubus**  
   
@@ -272,8 +272,11 @@ Enter **Rest Area** before Archangel fight, Auto-recover
   
 **Auto-Recover** after the fight  
 Go counter-clockwise after entering the weird purple area, get 1st treasure  
-Ambush first enemy (Succubus x2), shoot first x2, BP to Ryuji, shoot 2nd x2, AoA  
-Get into safe room  
+  
+Ambush first enemy (Succubus x2): **Shoot** first Succubus x2, **BP** to Ryuji, **Shoot** 2nd, AoA  
+  
+Get into **Safe Room**  
+
 Ambush 1st enemy after going up stairs: 
 
 #### EXP Fight: Archangel  
@@ -282,9 +285,12 @@ Ambush 1st enemy after going up stairs:
 | 1 | Rakunda | Garu | Rush | Zio, BP to Joker and Pulinpa |
 | x | Zio, BP to Ryuji | Garu | Rush | Lunge x2 | 
   
-Ambush big red dude, kill Archangel then run away:
+Ambush big red dude at the top of the stairs:
 #### Archangel Fight 2  
-Zio, BP to Ryuji, Lunge, Garu, Lunge, Shoot, BP to Ryuji, Lunge, run away
+
+| Turn | Joker | Ryuji | Morgana | Ann |
+| :-: | :-- | :-- | :-- | :-- |
+| 1 | Zio, **BP** to Ryuji, Lunge | Lunge | Garu | Shoot, **BP** to Ryuji, Lunge |
   
 Agathion Level 6: Rakukaja needed?  
 USE: **Leblanc Coffee** on **Joker** on the way back to get the eyes  
