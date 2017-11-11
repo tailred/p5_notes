@@ -386,7 +386,7 @@ Quick Travel: **Throne Room**
 
 | Turn | Joker | Ryuji | Morgana | Ann |
 | :-: | :-- | :-- | :-- | :-- |
-| 1 | Tarunda | Tarukaja on **Joker** | Garu | Agi |
+| 1 | Tarunda | Tarukaja on **Morgana** | Garu | Agi |
 | 2 | Tarunda | Tarukaja on **Joker** | Garu | Dia | 
 | 3 | Switch to **Mokoi**, Rakunda | Lunge | Garu | Agi |
 | 4 | Double Fangs | Lunge | Garu | Takemedic-All |
