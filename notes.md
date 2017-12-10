@@ -3,7 +3,6 @@ Todo: Investigate money, sp
 # Persona 5 Speedrun Notes
 
 Timed from selecting New Game to saving for the New Game+ file  
-Use JP audio if you want because seriously, who cares  
 Fast Forward and hold Triangle to skip text  
 Rush during enemy turns  
 Avoid enemies by alerting them on one side and running around them on the other  
