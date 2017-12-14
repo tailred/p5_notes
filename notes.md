@@ -1,4 +1,4 @@
-Todo: Investigate money, sp  
+Todo: Investigate money, sp in kamoshida  
   
 # Persona 5 Speedrun Notes
 
