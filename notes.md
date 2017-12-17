@@ -1,4 +1,6 @@
 Todo: Investigate money, sp in kamoshida  
+
+[Appendix](https://github.com/tailred/p5_notes/blob/master/notes.md#appendix)  
   
 # Persona 5 Speedrun Notes
 
