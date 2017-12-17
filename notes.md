@@ -388,8 +388,7 @@ Quick Travel: **Throne Room**
 | 1 | Rakunda | Tarukaja on **Joker** | Garu | Agi |
 | 2 | Double Fangs | Lunge | Garu | Dia | 
 | 3 | Double Fangs | Tarukaja on **Joker** | Garu | Agi |
-| 4 | Double Fangs | Lunge | Garu | Takemedic-All |
-| * | From here on, target **Trophy** until it dies unless noted otherwise | x | x | x |
+| 4 | Double Fangs | Lunge (**Target Trophy until dead**) | Garu | Agi |
 | 5 | Rakunda | Lunge | Garu | Agi |
 | 6 | Double Fangs | Lunge | Garu | Takemedic-All |
 | 7 | Double Fangs | Lunge | Takemedic-All V | Agi |
