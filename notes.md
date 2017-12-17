@@ -413,7 +413,7 @@ Sleep
   
 *Negotiation guide*:  
   
-Documented answers: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ40a91szJo8rKAVOpdUCXGU_ojJJ_shRvKcnT2O0RwvUbuo7nXocEYlEef7ftgghBYBagHmnz2Kv-C/pubhtml?gid=0&single=true  
+[Documented answers](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ40a91szJo8rKAVOpdUCXGU_ojJJ_shRvKcnT2O0RwvUbuo7nXocEYlEef7ftgghBYBagHmnz2Kv-C/pubhtml?gid=0&single=true)  
   
 | Personality | Likes | Dislikes |
 | :-- | :-- | :-- |
