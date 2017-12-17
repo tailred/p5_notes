@@ -388,12 +388,12 @@ Quick Travel: **Throne Room**
 | 1 | Rakunda | Tarukaja on **Joker** | Garu | Agi |
 | 2 | Double Fangs | Lunge | Garu | Dia | 
 | 3 | Double Fangs | Tarukaja on **Joker** | Garu | Agi |
-| 4 | Double Fangs | Lunge (**Target Trophy until dead**) | Garu | Agi |
+| 4 | Double Fangs | Lunge | Garu | Takemedic-All |
+| x | (**Target Trophy until dead**) | x | x | x |
 | 5 | Rakunda | Lunge | Garu | Agi |
-| 6 | Double Fangs | Lunge | Garu | Takemedic-All |
-| 7 | Double Fangs | Lunge | Takemedic-All V | Agi |
-| 8 | Double Fangs | Lunge (Trophy dies) | Takemedic-All V | Guard |
-| * | Send **Ryuji** for **Special Orders** | x | Garu (Revive if Ann died?) | Dia |
+| 6 | Double Fangs | Lunge | Takemedic-All V | Agi |
+| 7 | Double Fangs | Lunge (Trophy dies) | Takemedic-All V | Guard |
+| 8 | Send Ryuji, Rakunda | x | Garu (Revive if Ann died?) | Dia |
 | 9 | Guard | x | Guard | Guard |
 | 10 | Double Fangs | x | Garu | Takemedic-All |
 | 11 | Double Fangs | x | Garu | Takemedic-All V |
