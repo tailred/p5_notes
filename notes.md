@@ -1,5 +1,7 @@
 Todo: Investigate money, sp in kamoshida  
-
+  
+[Kamoshida's Castle of Lust](https://github.com/tailred/p5_notes/blob/master/notes.md#kamoshidas-castle-of-lust)  
+[Madarame's Museum of Vanity](https://github.com/tailred/p5_notes/blob/master/notes.md#madarames-museum-of-vanity)  
 [Appendix](https://github.com/tailred/p5_notes/blob/master/notes.md#appendix)  
   
 # Persona 5 Speedrun Notes
