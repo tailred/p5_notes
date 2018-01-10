@@ -190,7 +190,7 @@ Visit **Diner**, buy **Hot Coffee**
 **Brew Coffee**  
 
 ### 4/24
-Say **No** to text message (2nd Option)
+Say **No** to text message (2nd Option)  
 Fast Travel: **Convenience Store**  
 Part-time Job  
 **Brew Coffee**  
