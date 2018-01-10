@@ -350,7 +350,7 @@ Make way to **Treasure Room** and exit castle
 Sleep  
 
 ### 4/29
-Sleep  
+Sleep (if kicked out of the castle, resume / finish here)  
 Train  
 
 ### 4/30
