@@ -392,19 +392,18 @@ Quick Travel: **Throne Room**
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | Rakunda | Tarukaja on **Joker** | Garu | Agi |
 | 2 | Double Fangs | Lunge | Garu | Dia | 
-| 3 | Double Fangs | Tarukaja on **Joker** | Garu | Agi |
-| 4 | Double Fangs | Lunge | Garu | Takemedic-All |
+| 3 | Double Fangs | Tarukaja on **Joker** | Garu | Takemedic-All |
 | x | (**Target Trophy until dead**) | x | x | x |
-| 5 | Rakunda | Lunge | Garu | Agi |
-| 6 | Double Fangs | Lunge | Takemedic-All V | Agi |
-| 7 | Double Fangs | Lunge (Trophy dies) | Takemedic-All V | Guard |
-| 8 | Send Ryuji, Rakunda | x | Garu (Revive if Ann died?) | Dia |
-| 9 | Guard | x | Guard | Guard |
-| 10 | Double Fangs | x | Garu | Takemedic-All |
-| 11 | Double Fangs | x | Garu | Takemedic-All V |
-| 12 | Double Fangs | x | Garu | Agi (Ryuji should steal the crown) |
-| 13 | (*Guard with whoever was hurt?*) Double Fangs | Lunge | Guard if hurt? | Dia |
-| 14 | Double Fangs | Lunge | Rush, should be dead gg son | x |
+| 4 | Rakunda | Lunge | Garu | Agi |
+| 5 | Double Fangs | Lunge | Takemedic-All V | Agi |
+| 6 | Double Fangs | Lunge (Trophy dies) | Takemedic-All V | Guard |
+| 7 | Send Ryuji, Rakunda | x | Garu (Revive if Ann died?) | Dia |
+| 8 | Guard | x | Guard | Guard |
+| 9 | Double Fangs | x | Garu | Takemedic-All |
+| 10 | Double Fangs | x | Garu | Takemedic-All V |
+| 11 | Double Fangs | x | Garu | Agi (Ryuji should steal the crown) |
+| 12 | (*Guard with whoever was hurt?*) Double Fangs | Lunge | Guard if hurt? | Dia |
+| 13 | Double Fangs | Lunge | Rush, should be dead gg son | x |
   
 Sleep
 
